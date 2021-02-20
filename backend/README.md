@@ -10,16 +10,16 @@ O objetivo desse exercício é criar uma aplicação funcional que seja um tipo 
 ### Front-end
 
 Na frente da aplicação foi utilizado:
-    [] React
+    [] React;
 
 
 ### Back-end
 
 Por trás da aplicação será utilizado:
-    [] NODEJS
-    [] AXIOS
-    [] conceito de API REST
-    [] integração com banco de dados MongoDB
+    [x] NODEJS;
+    [x] AXIOS;
+    [x] conceito de API REST;
+    [x] integração com banco de dados MongoDB;
 
 ### Mobile
 
